@@ -1,6 +1,6 @@
 # Valodoka Games
 Description
 
-Status: Unavailable
+Status: ⚠️
 
 URL: https://valodokagames.github.io
