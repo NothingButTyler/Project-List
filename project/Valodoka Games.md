@@ -1,5 +1,5 @@
 # Valodoka Games
-Description
+Free educational games (est. 2023)
 
 Status: ⚠️ (You may access, but the site is in progress).
 
